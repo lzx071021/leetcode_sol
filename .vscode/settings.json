@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/bayes/opt/miniconda3/bin/python",
+    "fileheader.tpl": "\"\"\"doc-string\"\"\"\r# @Author            : {author} \r# @Date              : {createTime} \r# @Last Modified by  : {lastModifiedBy} \r# @Last Modified time: {updateTime}"
+}
