@@ -1,3 +1,4 @@
+"""Leetcode #14 最长公共前缀"""
 from typing import List
 
 

@@ -1,3 +1,4 @@
+"""Leetcode #19 删除链表的倒数第N个节点"""
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
@@ -30,3 +31,7 @@ class Solution:
         node.val = node.next.val
         node.next = node.next.next
         return head
+
+
+# * 给定链表 1->2->3->4->5, 和 n = 2
+# * 返回 1->2->3->5

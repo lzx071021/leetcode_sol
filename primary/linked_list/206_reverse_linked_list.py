@@ -1,7 +1,8 @@
-# Definition for singly-linked list.
+"""Leetcode #206 反转链表"""
 from dis import dis
 
 
+# Definition for singly-linked list.
 class ListNode:
     def __init__(self, x):
         self.val = x

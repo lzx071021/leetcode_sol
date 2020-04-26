@@ -1,3 +1,6 @@
+"""Leetcode #38 外观数列"""
+
+
 class Solution:
     def countAndSay(self, n: int) -> str:
 
@@ -27,4 +30,5 @@ class Solution:
 
 
 sol = Solution()
-print(sol.countAndSay(6))
+print(sol.countAndSay(4))  # Expected: '1211'
+print(sol.countAndSay(6))  # Expected: '312211'

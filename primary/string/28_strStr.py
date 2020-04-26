@@ -1,3 +1,4 @@
+"""Leetcode #28 实现 strStr()"""
 from collections import defaultdict
 
 

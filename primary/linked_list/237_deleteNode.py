@@ -1,3 +1,4 @@
+"""Leetcode #237 删除链表中的节点"""
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
@@ -13,3 +14,8 @@ class Solution:
         """
         node.val = node.next.val
         node.next = node.next.next
+
+
+test_case = {
+    ([4, 5, 1, 9], 5): [4, 1, 9]
+}
