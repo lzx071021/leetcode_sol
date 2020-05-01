@@ -1,4 +1,4 @@
-"""Leetcode #125 验证回文字符串"""
+"""Leetcode #125 验证回文字符串 https://leetcode-cn.com/problems/valid-palindrome/"""
 
 
 class Solution:
